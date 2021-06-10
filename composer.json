@@ -1,0 +1,14 @@
+{
+    "name": "auth0/php-jwt",
+    "description": "A dummy package to override Auth0's php-jwt package",
+    "type": "dummy-library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Fox",
+            "email": "peter.fox@peterfox.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
